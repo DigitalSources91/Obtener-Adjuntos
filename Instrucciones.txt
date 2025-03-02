@@ -1,0 +1,29 @@
+**///////  Instrucciones para guardar adjuntos de Outlook desde Excel ////////**
+
+1) .- Coloque el archivo Obtener-Correos.xltm en la ruta C:\correo 
+
+Nota: (Si lo va a colocar en el escritorio recuerde que esa ubicaciones es importante para la configuración del codigo VBA)
+
+2) .- si desea puede crear la carpeta "adjuntos" en la ubicaciones donde esta el archivo Obtener-Correos.xltm 
+
+Nota: (si no desea crear la subcarpeta carpeta debe recordar estos cambios importantes para la configuración del codigo VBA)
+
+
+**////////////////  Habilitar Programador VBA en Excel ////////////////**
+
+1) .- ir a: Archivo > Opciones 
+
+2) .- en la ventana Opciones dirijase a: Personalizar cinta de Opciones
+
+3) .- En (Pestañas principales), habilitar el checkbox de Programador
+
+
+**////////////////  Instalar plugin Date Picker  ////////////////**
+
+1) .- para ubicar el plugin el Date }picker en Excel, debemos ir a la siguiente Ruta:
+
+C:\Program Files (x86)\Microsoft Office
+
+2) .- Lugo ponemos busca XLSTART y aparecera una carpeta. dentro copiamos el archivo: 
+
+samradapps_datepicker.xlam
